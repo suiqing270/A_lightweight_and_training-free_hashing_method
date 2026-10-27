@@ -12,7 +12,6 @@ Hash_Generate provides model hashing and tamper localization tools for convoluti
 - Compare original and modified TLH outputs and calculate localization accuracy `Rt`.
 - Run batch experiments and export comparison tables and optional plots.
 
-Supported model names: `resnet18`, `resnet32`, `resnet56`, `resnet110`, `vgg16`, `densenet121`, `mnist`, and `lenet`. Here, `mnist` refers to MNIST-Net.
 
 ## Requirements
 
